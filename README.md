@@ -6,7 +6,7 @@ There are two commands: Add Border, and Remove Border, which are pretty self exp
 
 ## Installation
 
-Go to the [Releases page](https://github.com/bomberstudios/artboard-border/releases/latest) and click the link named **To install: download this file, unzip and double click on the .sketchplugin**
+[Download the plugin](https://github.com/bomberstudios/artboard-border/releases/latest/download/artboard-border.sketchplugin.zip), unzip it and double click on the .sketchplugin file.
 
 ## Possible Improvements
 
