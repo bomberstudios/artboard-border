@@ -1,0 +1,28 @@
+{
+  "name": "Artboard Border",
+  "description": "Add a border around the Artboards in the current page",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Add Border",
+      "identifier": "artboard-border.add-border",
+      "script": "./my-command.js",
+      "handler": "addBorder"
+    },
+    {
+      "name": "Remove Border",
+      "identifier": "artboard-border.remove-border",
+      "script": "./my-command.js",
+      "handler": "removeBorder"
+    }
+  ],
+  "menu": {
+    "title": "Artboard Border",
+    "items": [
+      "artboard-border.add-border",
+      "artboard-border.remove-border"
+    ]
+  }
+}
